@@ -1,8 +1,8 @@
 #SkyFighting
 
-![](https://github.com/ntgod/SkyFighting-master/blob/master/1.jpeg)
+![image](https://github.com/ntgod/SkyFighting-master/blob/master/1.jpeg)
 
-![](https://github.com/ntgod/SkyFighting-master/blob/master/2.jpeg)
+![image](https://github.com/ntgod/SkyFighting-master/blob/master/2.jpeg)
 
 这是国内目前第一款集合了AR实景，3D游戏和人脸识别的射击游戏，通过旋转和改变手机的角度与位置，所有的射击操作都靠手势来完成，目前所有的源码全部都在这里。
 
